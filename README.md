@@ -1,2 +1,2 @@
 # karate-test-scaffold
-Basic Scaffold for KARATE Test Suites.
+Basic Scaffold for KARATE Test Suites. :)
